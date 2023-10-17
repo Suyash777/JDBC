@@ -7,6 +7,7 @@ import org.apache.commons.dbcp2.BasicDataSource;
 
 public class DbUtil {
 	private BasicDataSource dataSource;
+	//
 	//private Connection connection;
 	
 	public DbUtil(String username, String password, String url) {
