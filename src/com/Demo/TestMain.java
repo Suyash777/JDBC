@@ -75,6 +75,7 @@ public class TestMain {
 			
 		case 5:
 			System.out.println("Existing!");
+			break;
 			
 		default:
 			System.out.println("Invalid input, try again!");
